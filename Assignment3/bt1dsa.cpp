@@ -1,0 +1,10 @@
+
+210               → O(1)
+2logn             → O(log n)
+nlogn             → O(n log n)
+4n                → O(n)
+3n+100logn        → O(n)
+4nlogn + 2n       → O(n log n)
+n2 + 10n          → O(n²)
+n3                → O(n³)
+2n                → O(2ⁿ)
